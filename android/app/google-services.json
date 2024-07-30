@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938620431832",
+    "project_id": "daytasker-88a71",
+    "storage_bucket": "daytasker-88a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938620431832:android:f5794d85959a2a1ee116ad",
+        "android_client_info": {
+          "package_name": "com.example.daytasker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938620431832-272fa5hcoq610oph29keiln9lt09gncp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQsE7kAlLAS-OMc0NwYvlWgR-dAYBpLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938620431832-272fa5hcoq610oph29keiln9lt09gncp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
