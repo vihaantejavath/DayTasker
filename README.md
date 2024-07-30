@@ -16,6 +16,12 @@
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
+- <img src="https://github.com/user-attachments/assets/bdf1d1ef-ccd5-416d-be16-8ac3a28090d6" alt="ToDo Page" width="300" height="600"/>
+  <img src="https://github.com/user-attachments/assets/844517ea-8fd2-49b0-89de-841ebea7f25c" alt="Task Page" width="300" height="600"/>
+- <img src="https://github.com/user-attachments/assets/1142609b-5241-488d-98a9-b144406a2273" alt="Register Page" width="300" height="600"/>
+  <img src="https://github.com/user-attachments/assets/9a59e6f9-6c8f-4763-beda-402b06de0b38" alt="Login Page" width="300" height="600"/>
+
+
 ### Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
